@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .vscode
 .cph
 test.*
+=======
+.cph
+.vscode
+test
+a.*
+>>>>>>> ba5cc20fab4ba1036abadc5fe7c2c013cfceddb2
